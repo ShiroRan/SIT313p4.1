@@ -1,0 +1,41 @@
+body {
+	color: #fff;
+	background: #2aa38f;
+	font-family: 'Roboto', sans-serif;
+}
+.form-control {
+	height: 41px;
+	background: #34a797;
+	box-shadow: none !important;
+	border: none;
+}
+h6{
+	color: #333;
+}
+.btn {        
+	border-radius: 3px;
+	font-size: 16px;
+	font-weight: bold;
+	background: #1a9276 !important;
+	border: none;
+	min-width: 140px;
+}
+.signup-form {
+	width: 400px;
+	margin: 30px auto;
+}
+.signup-form form {
+	color: rgb(21, 105, 91);
+	border-radius: 3px;
+	margin-bottom: 15px;
+	background: #fff;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	padding: 30px;
+}
+
+
+.btn:hover{
+	background: #71a5a0 !important;
+    outline: none;
+    position: relative;
+}
